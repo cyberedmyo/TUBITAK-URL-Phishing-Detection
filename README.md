@@ -13,7 +13,7 @@ Bu proje, URL phishing saldırılarını tespit etmek için yapay zeka teknikler
 - Kullanıcı arayüzü oluşturarak projenin erişilebilirliğini sağlamak.
 
 ## Katkıda Bulunanlar
-- [Adınız]: Proje sahibi ve geliştirici.
+- Ensar Özder: Proje sahibi ve geliştirici.
 
 ## İletişim
 Proje hakkında daha fazla bilgi almak veya katkıda bulunmak isterseniz, ozderensar@gmail.com adresine ulaşabilirsiniz.
